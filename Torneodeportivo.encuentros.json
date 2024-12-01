@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "674cbdc98249d2952d80984c"
+  },
+  "fecha": {
+    "$date": "2024-11-17T16:00:00.000Z"
+  },
+  "equipo_local": "Atlético Nacional",
+  "equipo_visitante": "Millonarios",
+  "resultado": {
+    "goles_local": 3,
+    "goles_visitante": 1
+  },
+  "arbitro": {
+    "$oid": "674cbd7d8249d2952d80984a"
+  }
+},
+{
+  "_id": {
+    "$oid": "674cbde68249d2952d80984d"
+  },
+  "fecha": {
+    "$date": "2024-11-18T18:00:00.000Z"
+  },
+  "equipo_local": "Santa Fe",
+  "equipo_visitante": "América de Cali",
+  "resultado": {
+    "goles_local": 2,
+    "goles_visitante": 2
+  },
+  "arbitro": {
+    "$oid": "674cbd7d8249d2952d80984b"
+  }
+}]

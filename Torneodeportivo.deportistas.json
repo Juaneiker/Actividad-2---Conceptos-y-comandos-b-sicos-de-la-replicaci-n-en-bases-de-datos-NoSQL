@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "674cbcf68249d2952d809843"
+  },
+  "nombre": "Juan Pérez",
+  "equipo": "Atlético Nacional",
+  "posición": "Delantero",
+  "edad": 28,
+  "nacionalidad": "Colombiana"
+},
+{
+  "_id": {
+    "$oid": "674cbd3f8249d2952d809846"
+  },
+  "nombre": "Carlos Fernández",
+  "equipo": "Millonarios",
+  "posición": "Arquero",
+  "edad": 30,
+  "nacionalidad": "Colombiana"
+}]
